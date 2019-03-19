@@ -12,6 +12,7 @@
 		B1CAC3C6224076C700A4B328 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1CAC3C4224076C700A4B328 /* Main.storyboard */; };
 		B1CAC3C8224076C800A4B328 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1CAC3C7224076C800A4B328 /* Assets.xcassets */; };
 		B1CAC3CB224076C800A4B328 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1CAC3C9224076C800A4B328 /* LaunchScreen.storyboard */; };
+		B1CAC3D5224079D000A4B328 /* Home.html in Resources */ = {isa = PBXBuildFile; fileRef = B1CAC3D4224079D000A4B328 /* Home.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B1CAC3C7224076C800A4B328 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1CAC3CA224076C800A4B328 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B1CAC3CC224076C800A4B328 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1CAC3D4224079D000A4B328 /* Home.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Home.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				B1CAC3C0224076C700A4B328 /* AppDelegate.swift */,
+				B1CAC3D4224079D000A4B328 /* Home.html */,
 				B1CAC3C2224076C700A4B328 /* ViewController.swift */,
 				B1CAC3C4224076C700A4B328 /* Main.storyboard */,
 				B1CAC3C7224076C800A4B328 /* Assets.xcassets */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1CAC3CB224076C800A4B328 /* LaunchScreen.storyboard in Resources */,
+				B1CAC3D5224079D000A4B328 /* Home.html in Resources */,
 				B1CAC3C8224076C800A4B328 /* Assets.xcassets in Resources */,
 				B1CAC3C6224076C700A4B328 /* Main.storyboard in Resources */,
 			);
